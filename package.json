@@ -1,0 +1,23 @@
+{
+  "name": "script-ext-inline-html-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Enhances html-webpack-plugin functionality with append or prepend custom inline script tag",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+    "inline",
+    "script",
+    "inline script"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
